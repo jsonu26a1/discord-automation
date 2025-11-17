@@ -1,0 +1,17 @@
+{
+  "name": "discord-automation",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "build-dev": "node scripts/build-dev.js",
+    "watch": "node scripts/watch.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.27.0"
+  }
+}
